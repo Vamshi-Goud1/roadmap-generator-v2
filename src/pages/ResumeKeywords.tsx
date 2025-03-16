@@ -8,7 +8,7 @@ import { Badge } from "@/components/ui/badge";
 import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
 import { extractKeywords as extractKeywordsAI } from "@/utils/geminiClient";
-import html2pdf from 'html2pdf.js';
+import * as html2pdf from 'html2pdf.js';
 import { useAuth } from '@/lib/auth';
 import { addToHistory } from "@/services/historyService";
 import "@/styles/roadmap.css";
