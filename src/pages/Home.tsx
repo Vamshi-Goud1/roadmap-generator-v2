@@ -304,6 +304,7 @@ const Home = () => {
         </section>
 
         {/* News Section */}
+        {/* News Section - Temporarily commented out
         <section className="py-20 px-6 bg-black/50 backdrop-blur-sm">
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-16 opacity-0 translate-y-4 animate-fade-in-up">
@@ -315,6 +316,7 @@ const Home = () => {
             <News />
           </div>
         </section>
+        */}
       </main>
 
       <Footer />

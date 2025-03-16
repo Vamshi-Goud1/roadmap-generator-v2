@@ -40,11 +40,11 @@ const authenticatedNavigation = [
     href: "/keywords",
     icon: FileSearch,
   },
-  {
+  /*{
     name: "News",
     href: "/news",
     icon: Newspaper,
-  },
+  },*/
   {
     name: "History",
     href: "/history",
