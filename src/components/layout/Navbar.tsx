@@ -26,6 +26,11 @@ const authenticatedNavigation = [
     icon: Home,
   },
   {
+    name: "AI Chat",
+    href: "/chat",
+    icon: MessageSquare,
+  },
+  {
     name: "Roadmap Generator",
     href: "/roadmap",
     icon: Route,
@@ -44,11 +49,6 @@ const authenticatedNavigation = [
     name: "History",
     href: "/history",
     icon: History,
-  },
-  {
-    name: "AI Chat",
-    href: "/chat",
-    icon: MessageSquare,
   },
 ];
 
